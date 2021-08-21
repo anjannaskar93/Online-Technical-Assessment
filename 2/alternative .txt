@@ -1,0 +1,3 @@
+As an alternative for .sh scripy you can simply run below command in AWS CLI
+Get-EC2InstanceMetadata -Category IdentityDocument
+which displays coplete out put in JSON
